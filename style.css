@@ -1,0 +1,216 @@
+.nav ul li{
+ list-style-type: none;
+ display: inline;
+ margin: 1rem;   
+    
+    
+    
+    
+}
+.nav{
+    display: flex;
+    border: 100%;
+}
+.sean{
+    text-align: center;
+}
+.main{
+display: flex;
+}
+.COCO{
+    width: 30%;
+}
+.nav{
+    width: 80%;
+}
+.N{
+    font-size: 60PX;
+}
+.V{
+    font-size: 60px;
+}
+.B{
+    padding: 4%;
+    background-color: black;
+    color: white;
+
+}
+.A{
+    font-size: 20px;
+}
+.s{
+    background-color: coral;
+}
+.img1{
+    width: 90px;
+    height: 90px;
+
+}
+.img2{
+    width: 90px;
+    height: 90px;
+
+}
+.img3{
+    width: 90px;
+    height: 90px;
+}
+.img4{
+    width: 90px;
+    height: 90px;
+
+}
+.img5{
+    width: 90px;
+    height: 90px;
+
+}
+.img6{
+    width: 90px;
+    height: 90px;
+}
+.img7{
+    width: 90px;
+    height: 90px;
+
+}
+.sec1{
+    display: flex;
+    gap: 60px;
+}
+.img8{
+    width: 50%;
+    height: 50%;
+
+
+}
+.img9{
+    width: 80%;
+    height: 60%;
+
+}
+.img10{
+    width: 70%;
+    height: 50%;
+
+}
+.img11{
+    width: 70%;
+    height: 60%;
+
+}
+.img12{
+    width: 80%;
+    height: 60%;
+}
+.img13{
+    width: 70%;
+    height: 40%;
+
+}
+.sec2{
+    display: flex;
+}
+.sec4{
+    text-align: center;
+}
+.sec5{
+    display: flex;
+    gap: 80px;
+}
+.sec3{
+    border: solid;
+    padding: 50px;
+    background-color: #fcc89b;
+}
+.img14{
+    width: 90%;
+    height: 60%;
+
+}
+.img15{
+    width: 90%;
+    height: 60%;
+
+}
+.img16{
+    width: 90%;
+    height: 60%;
+}
+.img17{
+    width: 90%;
+    height: 60%;
+
+}
+.sec6{
+    display: flex;
+    
+}
+.sec7{
+    display: flex;
+    border: solid;
+    height: 80%;
+}
+.img18{
+    width: 120%;
+    height: 50%;
+}
+.top{
+    padding-left: 20%;
+    font-size: 20px;
+}
+.sec9{
+    width: 50%;
+}
+.sec10{
+    width: 50%;
+    display: flex;
+    gap: 40px;
+}
+.lock{
+    display: flex;
+}
+.sec11{
+    border: solid;
+    width: 60%;
+}
+.boss{
+    display: flex;
+    gap: 100px;
+    padding-left: 100px;
+
+}
+.sec13{
+    text-align: center;
+}
+.sec14{
+    text-align: center;
+}
+.sec15{
+    text-align: center;
+}
+.sec8{
+    border: solid;
+    padding-left: 40px;
+    background-color: #fcc89b;
+    position: relative;
+    top: -400px;
+}
+.a1{
+    border: solid;
+}
+.a2{
+    border: solid;
+}
+.a3{
+    border: solid;
+}
+.a4{
+    border: solid;
+}
+.a5{
+    border: solid;
+}
+.a6{
+    border: solid;
+}
